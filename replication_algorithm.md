@@ -1,3 +1,5 @@
+# Replication algorithm
+
 The replication algorithm in pseudo code.
 
 ## Goal
